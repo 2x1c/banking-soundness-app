@@ -1,0 +1,19 @@
+bank_id,bank_name,period,npl_gross_pct,npl_net_pct,ldr_pct,car_pct,roa_pct,roe_pct,nim_pct,bopo_pct,lcr_pct,nsfr_pct,gcg_score,gcg_notes
+BBCA,Bank Central Asia,2024-Q2,1.55,0.43,67.95,25.32,3.33,17.05,5.17,69.63,189.81,130.07,1.79,Evaluasi GCG tahunan sesuai pedoman OJK
+BBCA,Bank Central Asia,2024-Q4,1.98,0.45,71.1,25.55,3.22,16.83,5.47,68.45,184.35,129.72,1.78,Evaluasi GCG tahunan sesuai pedoman OJK
+BBNI,Bank Negara Indonesia,2024-Q1,2.89,0.87,87.8,18.92,2.58,14.53,5.57,78.76,160.79,119.72,2.11,Evaluasi GCG tahunan sesuai pedoman OJK
+BBNI,Bank Negara Indonesia,2024-Q2,2.77,1.05,88.05,18.44,2.3,13.2,5.9,79.61,163.17,120.75,1.82,Evaluasi GCG tahunan sesuai pedoman OJK
+BBNI,Bank Negara Indonesia,2024-Q3,2.99,1.13,85.93,19.96,2.18,14.42,5.83,76.51,159.75,122.3,1.91,Evaluasi GCG tahunan sesuai pedoman OJK
+BBNI,Bank Negara Indonesia,2025-Q1,3.04,1.01,86.66,20.18,2.53,13.55,5.62,79.88,161.65,121.73,2.01,Evaluasi GCG tahunan sesuai pedoman OJK
+BBRI,Bank Rakyat Indonesia,2023-Q4,2.51,0.79,83.01,22.84,3.12,19.0,6.8,73.07,170.08,126.12,1.72,Evaluasi GCG tahunan sesuai pedoman OJK
+BBRI,Bank Rakyat Indonesia,2024-Q1,2.11,0.77,80.86,21.24,3.15,18.24,6.71,70.99,172.44,130.47,1.86,Evaluasi GCG tahunan sesuai pedoman OJK
+BBRI,Bank Rakyat Indonesia,2024-Q2,2.43,0.79,84.1,20.96,3.03,19.27,6.86,72.28,176.77,130.01,1.91,Evaluasi GCG tahunan sesuai pedoman OJK
+BBRI,Bank Rakyat Indonesia,2024-Q3,2.29,0.77,82.13,21.33,2.96,19.22,7.0,71.21,176.63,127.42,1.97,Evaluasi GCG tahunan sesuai pedoman OJK
+BBRI,Bank Rakyat Indonesia,2024-Q4,2.45,0.87,81.88,22.27,3.0,18.68,7.02,71.45,172.42,131.14,1.8,Evaluasi GCG tahunan sesuai pedoman OJK
+BBTN,Bank BTN,2024-Q1,2.99,1.01,90.73,17.08,1.4,10.74,4.77,84.5,143.99,115.03,2.09,Evaluasi GCG tahunan sesuai pedoman OJK
+BBTN,Bank BTN,2024-Q2,2.98,1.04,90.44,18.42,1.31,10.04,4.64,87.29,139.99,119.78,2.28,Evaluasi GCG tahunan sesuai pedoman OJK
+BBTN,Bank BTN,2024-Q3,2.95,1.11,94.34,17.54,1.1,9.87,4.78,86.36,148.15,119.43,2.21,Evaluasi GCG tahunan sesuai pedoman OJK
+BMRI,Bank Mandiri,2024-Q1,1.71,0.56,83.99,23.14,2.84,18.49,5.96,73.72,166.99,128.23,1.84,Evaluasi GCG tahunan sesuai pedoman OJK
+BMRI,Bank Mandiri,2024-Q2,1.74,0.59,85.74,22.08,2.8,19.67,6.22,72.99,172.7,127.74,1.58,Evaluasi GCG tahunan sesuai pedoman OJK
+BMRI,Bank Mandiri,2024-Q3,1.8,0.68,84.62,22.9,3.11,19.28,6.44,71.39,169.03,125.04,1.84,Evaluasi GCG tahunan sesuai pedoman OJK
+BMRI,Bank Mandiri,2024-Q4,1.92,0.64,84.84,22.83,2.9,18.63,6.43,72.67,173.76,126.4,1.52,Evaluasi GCG tahunan sesuai pedoman OJK
